@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HRM Automation">
+
+	<test name="TestScripts">
+	    <classes>
+	        <class name="TestScripts.TC1_Login" ></class> 
+	        <class name="TestScripts.TC2_AddEmp" ></class>  
+	    </classes>
+	</test>
+
+</suite>
